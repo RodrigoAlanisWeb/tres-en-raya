@@ -1,0 +1,3 @@
+import cordenadas
+
+cordenadas.main()
